@@ -1,0 +1,11 @@
+Style/Documentation:
+  Enabled: false
+
+Style/FloatDivision:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 100
